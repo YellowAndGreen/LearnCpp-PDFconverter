@@ -2,6 +2,8 @@
 
 This code aims to convert the [learnCpp](https://www.learncpp.com/) website into a pdf book for offline reading.
 
+English | [简体中文](.github/README_ZH.md)
+
 # Methodology
 
 1. First, this code leverages the library **pyautogui** to open the web browser to print the learnCpp website.
